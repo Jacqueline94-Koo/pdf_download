@@ -1,6 +1,6 @@
 # pdf_download
 
-A new Flutter application.
+This code is download the pdf into user phone (ios & android).
 
 ## Getting Started
 
